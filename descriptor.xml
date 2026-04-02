@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<descriptors>
+	<descriptor id="org.springframework.data.gemfire.template.standalone"
+		name="Spring Spring MVC Project"
+		kind="template"
+		category="Spring MVC"
+		local="false"
+		requires="[3.0.0,4.0)"
+		requiresBundle="org.eclipse.m2e.core"
+		version="1.0.1.RELEASE"
+		size="7467"
+		url="https://raw.github.com/SpringSource/spring-data-gemfire-sts-templates/master/builds/gemfire-standalone-sts-template-1.0.1.RELEASE.zip">
+		<description>
+			Creates a Spring Data GemFire project with an embedded
+			cache and one region that runs as a standalone Java
+			application.
+		</description>
+	</descriptor>
+</descriptors>
