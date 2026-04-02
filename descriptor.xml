@@ -8,7 +8,7 @@
 		requiresbundle="org.eclipse.m2e.core"
 		version="3.2.2"
 		size="9934"
-		url="https://raw.githubusercontent.com/cyberls17/Spring-MVC-Project-Templates/refs/heads/main/org.springframework.templates.mvc-3.2.2.zip">
+		url="https://raw.githubusercontent.com/cyberls17/Spring-MVC-Project-Templates/main/org.springframework.templates.mvc-3.2.2.zip">
 		<description>
 			Default Spring MVC project template.
 		</description>
