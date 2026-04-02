@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<descriptor id="org.springframework.templates.mvc" kind="template" local="true" name="Spring MVC Project" requiresbundle="org.eclipse.m2e.core" size="0" version="3.2.2">
-        <description>A new Spring MVC web application development project</description>
-</descriptor>
+<descriptors>
+	<descriptor id="org.springframework.templates.mvc"
+		name="Spring MVC Project"
+		kind="template"
+		category="Spring MVC"
+		local="false"
+		requiresbundle="org.eclipse.m2e.core"
+		version="3.2.2"
+		size="0"
+		url="https://raw.githubusercontent.com/cyberls17/Spring-MVC-Project-Templates/refs/heads/main/org.springframework.templates.mvc-3.2.2.zip">
+		<description>
+			Default Spring MVC project template.
+		</description>
+	</descriptor>
+</descriptors>
